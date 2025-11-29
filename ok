@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/c9ny9uAf"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scrintisnotfun/InkGames/refs/heads/main/NewLoader.lua"))()
