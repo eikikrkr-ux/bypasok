@@ -1,8 +1,1 @@
-if getgenv then
-    getgenv().BorenHub = true
-end
-
-if getrenv then
-    getrenv().BorenHub = true
-end
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scrintisnotfun/InkGames/refs/heads/main/NewLoader.lua"))()
+soon
